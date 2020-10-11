@@ -47,7 +47,7 @@ class _LandingPageState extends State<LandingPage> {
                 Align(
                   alignment: Alignment.topLeft,
                   child: Text(
-                    "This Diabetic Retinopathy Detection lets you to\ndetect Diabetes by using\nLive Image Detection.",
+                    "This Diabetic Retinopathy Detection lets you to\ndetect vision Blindness by using\nLive Image Detection.",
                     textAlign: TextAlign.justify,
                     style: TextStyle(
                       color: Color(0xff878787),
